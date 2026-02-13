@@ -1,0 +1,134 @@
+{
+  "profile": {
+    "name": "Anupam Kumar",
+    "title": "Software Engineer & Technology Professional",
+    "tagline": "Building innovative solutions with modern technologies",
+    "about": "Experienced technology professional with expertise in software development, system architecture, and team leadership. Passionate about creating efficient, scalable solutions that drive business value and enhance user experiences."
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        "Python",
+        "JavaScript/TypeScript",
+        "Java",
+        "C/C++",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Web Technologies",
+      "items": [
+        "React",
+        "Node.js",
+        "HTML5/CSS3",
+        "REST APIs",
+        "GraphQL"
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "items": [
+        "Git",
+        "MongoDB",
+        "PostgreSQL",
+        "Jenkins",
+        "Terraform"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "Technology Company",
+      "period": "2020 - Present",
+      "responsibilities": [
+        "Led development of cloud-native applications using microservices architecture",
+        "Mentored junior developers and conducted code reviews",
+        "Improved system performance by 40% through optimization initiatives",
+        "Collaborated with cross-functional teams to deliver high-quality products"
+      ]
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "period": "2017 - 2020",
+      "responsibilities": [
+        "Developed and maintained full-stack web applications",
+        "Implemented automated testing frameworks reducing bugs by 30%",
+        "Participated in agile development processes and sprint planning",
+        "Contributed to architectural decisions and technology selection"
+      ]
+    },
+    {
+      "position": "Junior Developer",
+      "company": "StartUp Ventures",
+      "period": "2015 - 2017",
+      "responsibilities": [
+        "Built responsive web interfaces using modern JavaScript frameworks",
+        "Assisted in database design and optimization",
+        "Participated in daily stand-ups and sprint retrospectives",
+        "Collaborated with designers to implement pixel-perfect UIs"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2022"
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2021"
+    },
+    {
+      "name": "MongoDB Certified Developer",
+      "issuer": "MongoDB University",
+      "date": "2020"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "University Name",
+      "period": "2013 - 2015"
+    },
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "University Name",
+      "period": "2009 - 2013"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimizing Cloud Infrastructure for Machine Learning Workloads",
+      "authors": "Anupam Kumar, et al.",
+      "venue": "International Conference on Cloud Computing",
+      "date": "2023"
+    },
+    {
+      "title": "Scalable Microservices Architecture: Best Practices and Patterns",
+      "authors": "Anupam Kumar",
+      "venue": "Journal of Software Engineering",
+      "date": "2022"
+    }
+  ],
+  "contact": {
+    "email": "anupam.kumar@example.com",
+    "phone": "+1 (555) 123-4567",
+    "linkedin": "https://www.linkedin.com/in/anupamkumar",
+    "location": "City, State, Country"
+  }
+}
